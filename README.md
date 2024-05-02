@@ -11,7 +11,7 @@ A no-BS video compressor.
 
 ---
 
-![Preview](https://github.com/cheezos/video-compressor/blob/main/preview.png)
+![Preview](https://github.com/Poison786/company_video-compressor)
 
 ---
 
